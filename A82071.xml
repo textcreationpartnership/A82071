@@ -1,0 +1,201 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration by the presbytery at Bangor, in Ireland, July 7. 1649, setting forth the apparent ruine of religion, and the great violation of the covenant following upon the present change of command in this province: with some observations upon the Lord Vicount of Ards late declaration, of July 4.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82071</idno>
+            <idno type="STC">Wing D566</idno>
+            <idno type="STC">Thomason E568_5*</idno>
+            <idno type="STC">ESTC R206245</idno>
+            <idno type="EEBO-CITATION">99865419</idno>
+            <idno type="PROQUEST">99865419</idno>
+            <idno type="VID">168337</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82071)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168337)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 87:E568[5*])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration by the presbytery at Bangor, in Ireland, July 7. 1649, setting forth the apparent ruine of religion, and the great violation of the covenant following upon the present change of command in this province: with some observations upon the Lord Vicount of Ards late declaration, of July 4.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[Edinburgh? :</pubPlace>
+                  <date>Printed Anno Dom. 1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+                  <note>Place of publication from Wing.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Presbyterianism --  Early works to 1800.</term>
+               <term>Ireland --  History --  1649-1660 --  Early works to 1800.</term>
+               <term>Ireland --  Church history --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168337:1"/>
+            <p>A DECLARATION by the Presbytery at <hi>Bangor,</hi> in <hi>Ireland,</hi> July 7. 1649.</p>
+            <p>Setting forth the apparent ruine of Religion, and the great violation of the COVENANT fol<g ref="char:EOLhyphen"/>lowing upon the preſent change of Command in this Province:</p>
+            <p>With ſome obſervations upon the Lord Vicount of ARDS late Declaration, of <hi>July</hi> 4.</p>
+            <p>Printed Anno Dom. 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="declaration">
+            <pb facs="tcp:168337:2"/>
+            <pb facs="tcp:168337:2"/>
+            <head>A DECLARATION by the Presbytery at <hi>Bangor,</hi> the ſeventh of July, 1649. &amp;c.</head>
+            <p>
+               <seg rend="decorInit">A</seg>S we have upon every remarkable change of af<g ref="char:EOLhyphen"/>faires in this land, from our watch-towre blowen the trumpet unto the people, by ſetting before them the true ſtate of their owne con<g ref="char:EOLhyphen"/>dition, and giving them warning of their due<g ref="char:EOLhyphen"/>tie in theſe darke and troubleſome times: So a greater myſterie of iniquity being now diſco<g ref="char:EOLhyphen"/>vered, then was any before, and of greater danger to the peo<g ref="char:EOLhyphen"/>ple of God, then any former deſigne which hes been known among us; we cannot forbeare to cry aloud to our flockes, to beware of ravenous Wolves who are riſen to devour them. The danger we were in by Sectaries, we have formerly repre<g ref="char:EOLhyphen"/>ſented at large, and have ſufficiently vindicate our ſelves in all our actions relating to them: The late unexpected invaſion by <hi>Malignants,</hi> we have faithfully informed our people of, and preſſed upon them their duety for oppoſing the ſame. And now it hath pleaſed the Lord to ſuffer men among our ſelves to be our enemies, theſe who took ſweet counſell together with us, renewed the Covenant, and entered in a ſolemne Declaration: do now lift up themſelves againſt us, and un<g ref="char:EOLhyphen"/>der a pretence of delivering us, have indeed been the princi<g ref="char:EOLhyphen"/>pall inſtruments to ruine us and the work of God among us, if the Lord reſtraine them not from the accompliſhing their whole deſigne: The chief head of thoſe who pretend autho<g ref="char:EOLhyphen"/>rity above the reſt, is the Lord Vicount of <hi>Ai<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ds:</hi> whoſe pre<g ref="char:EOLhyphen"/>ſen actions are ſo repugnant to his former Profeſſions, that no Chriſtian or ingenuous man can think upon them without horrour and deteſtation: His forwardneſſe to renew the Co<g ref="char:EOLhyphen"/>venant:
+<pb facs="tcp:168337:3"/> His fervency to have a ſolemne band and Declarati<g ref="char:EOLhyphen"/>on ſubſcribed and entered into: His large promiſes to defend Religion: His diſclaiming all conjunction, with <hi>Popiſt</hi> or Rebells with words of zeal and diſdaine: His i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſinuations upon all honeſt men for gaining them to him: His conſenting to all publick orders againſt <hi>Malignants</hi> being compared with his late undertakings, muſt clear to pre<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ent to even mans view the great diſſimulation and betraying of the people and Co<g ref="char:EOLhyphen"/>venant he is guilty of; for which our ſorrow and grief is no leſſe, then our rejoycing, had been great to have ſeene his Lordſhip ſtand faithfull, which was one of our chiefeſt de<g ref="char:EOLhyphen"/>ſires.</p>
+            <p>For (whereas the danger of ſuch accidents being foreſeen) an Article was inſert in the Declaration, to acknowledge the Kings Commands; Hee confirming all the Articles of the Covenant, before hee were admitted to the exerciſe of his Royall power, without which clauſe many would have trem<g ref="char:EOLhyphen"/>bled to joyn with him: Yet he hes now cloathed him ſelfe with a Commiſſion from his Majeſtie, who as yet refuſes to give any ſatisfaction in Religion unto the juſt deſires of the Kingdome of <hi>Scotland.</hi> Yea, his conceſſions are leſſe then theſe granted by his Royall Father; which yet were declared by Church and State, unſatisfactorie, and therefore, the exe<g ref="char:EOLhyphen"/>cuting of ſuch a Commiſſion, is nothing elſe but an endeavour to ſet up the Kings Majeſtie, not onely before Religion, but in a quarrell deſtructive unto it. For the firſt difference be<g ref="char:EOLhyphen"/>tween the King and his people, was touching his abſolute and unlimited power in Civill things, and his adherance to Prela<g ref="char:EOLhyphen"/>cie, and maintaining their power; for which both our late Soveraigne, and his Majeſtie who now is, did raiſe Armes againſt their Subjects, and to this day that ſame quarrell is avouched and owned by his Majeſtie: and all his Commiſſions tend to the bringing him to that power which was juſtly de<g ref="char:EOLhyphen"/>med to his Royall Father. And it ſeemes the Lord of <hi>Airds</hi> does owne the ſame, for hee ſayes in his new Declaration of the fourth of this inſtant directly. <hi>That the Kings Commiſſi<g ref="char:EOLhyphen"/>on did ever procure reſpect and obedience untill the worſt of a mee,</hi> which muſt needs be meaned of that time, when the Kingdomes were united by a Covenant, in oppoſition to ſuch Commiſſions given by the King to Malignants. And that one phraſe may give us a taſte what may be expected from <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he reſt <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> his Declarations concerning his profeſſions to Religion.
+<pb facs="tcp:168337:3"/> For if the refuſing any Commiſſions from the King, was in the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> oftimes, then ſurely the taking a Covenant, the Union of the Kingdomes, caſting out Praelac<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, bringing downe Ma<g ref="char:EOLhyphen"/>lignants, all againſt a perſonall Commiſſion is accounted by his Lordſhip, to How from the iniquity of the times: More<g ref="char:EOLhyphen"/>over in his Declaration hee further diſcovers his thoughts of Reformation, when hee profeſſes to endeavour <hi>the bringing of the King to his Throne, whence hee is debarred by wicked men, who</hi> (as hee ſayes) <hi>hes overturned Church and State in other his dominions</hi> (by which we conceave, he underſtands both <hi>Scotland</hi> and <hi>England,</hi> ſince no other but this is excepted) whereby his Lordſhips judgment of the government of <hi>Scotland</hi> would appear to be that it is both Civilly and Ecceleſiaſtically overturned; what good ſhall we expect from him for Religi<g ref="char:EOLhyphen"/>on who thinks ſo. Yea, it appeares his Lordſhip thinkes that ſame of us, when hee ſayes; <hi>There were ſome who would have had him run in abſolute oppoſition to the Kings partie, as well as to Sectaries:</hi> By whom wee conceave among others, he muſt underſtand the Miniſterie, who were indeed earneſt to oppoſe Sectaries and Malignants equallie, which in his judgement is but a preferring our own opinions and ends to the well of the Kingdome. What aſſiſtance ſhall wee expect from him in the future for the good of Religion, when hee makes our former faithfullneſſe our reproach. And whereas he promiſes to indeavour to procure from His Majeſty a feeling of our Religion, we conceive Him to meane Religion either in the large extent as it can take in Prelacy, and as He calls it thereafter, <hi>The Proteſtant Religion,</hi> or elſe we believe He hes little ground to think that He will obtain that from His Majeſtie, which He hes refuſed to grant to His faithfull Subjects of Scot<g ref="char:EOLhyphen"/>land, to wit. An eſtabliſhment of the Solemne League and Covenant; without which Religion can never be truly ſecured here, it being to ſmall purpoſe though His Majeſty ſhould tol<g ref="char:EOLhyphen"/>lerat Presbyteriall Government in this Province for a time, and yet refuſe to ſetle it in the reſt of His Dominions.</p>
+            <p>It is moreover obſervable, that his Lordſhip never menti<g ref="char:EOLhyphen"/>ons Presbyteriall Government in all his Declaration, nor doth he once name the Covenant, or promiſe any thing in relation to it which is too groſſe a character of his Lordſhips diſaffection to Reformati<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n, and may ſeem clearly to be done that He may be anſwereable to His Majeſty for his Profeſſions, that they are no larger then His Commiſſion allowes Him
+<pb facs="tcp:168337:4"/> to make them, which is not, either to defend o<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>res Dy<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Government or the Covenant, but to receive His commands from the Marqueſſe of <hi>Ormond,</hi> who he<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> been ſtill an Enemie to both, and who hath made a Peace with the Rebels deſtru<g ref="char:EOLhyphen"/>ctive to Religion; unto which Peace the Lord <hi>Airds</hi> contrary to his many profeſſions and ſubſcriptions, his now joyned himſelf: For his Commiſſion imports no leſſe binding him (as we are Informed) to protect and be carefull of His Maje<g ref="char:EOLhyphen"/>ſties Catholick ſubjects. His late actions alſo declares it, for He imployed Iriſh Papiſts in His ſervice for ſubduing the two Gariſons of <hi>Be<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>faſt,</hi> and <hi>Craigfergus,</hi> as is clear, not only by His avouching the chief command over them, and giving them Orders, but alſo in His Declaration He ſeems not ob<g ref="char:EOLhyphen"/>ſcurely to juſtifie their invaſion, calling them by the friendly names of ſtrangers, and making their quarrell to be but a preſſing the Kings intereſt, which He ſayes, was not ſuffici<g ref="char:EOLhyphen"/>ently ſecured among us. And in another placed ſpeaking of them, He ſayes that the Quarters are not able to bee ſuch a burthen without ruine. By which ſeems His L<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> would not weary of them, if the Quarter could be able to beare them, all which as it is but a mockry of the Publick Decla<g ref="char:EOLhyphen"/>ration, ſo it is a notorious breach of Covenant, for He is ſworn to oppoſe all Malignants who are againſt that ſolemne League, or would divide the King from His People in their defence of it, ye<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> He joynes with Malignants who blaſphemes the Covenant. In the Covenant Hee is ſworne to exti<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>at Poperie and Prelacie, yet Hee puts on a Commiſſion which binds Him to maintain Proteſtant Religion in the large ex<g ref="char:EOLhyphen"/>tent and Papiſts in the exerciſe of their Religion. Yea, the Marqueſſe of <hi>Ormond,</hi> from whom He is to receive commands is an avouched maintainer of Prelacie, and retains ſtill the old Engliſh Liturgie (as Wee are informed) in his publick devoti<g ref="char:EOLhyphen"/>ons. In the Covenant Hee is ſworn to endeavour the bring<g ref="char:EOLhyphen"/>ing to puniſhment thoſe who would divide the King from his Kingdomes or one of them from another, yet Hee exe<g ref="char:EOLhyphen"/>cute ſuch a Commiſſion which foments the diſtance betwixt His Majeſtie and the Kingdome of Scotland, and is a mighty obſtruction unto His Majeſties granting of Their juſt deſires. In <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Covenant He is ſworne to defend to His uttermoſt pow<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> all the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e who <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> in the Covenant, in the defence the <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> He under <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> long of ſtrengthning, betrayed Cove<g ref="char:EOLhyphen"/>nant <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> bound <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> to the Covenant, by bring<g ref="char:EOLhyphen"/>ing
+<pb facs="tcp:168337:4"/> for th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> bounde the power of a command oppoſite to the Covenant. As theſe things makes clear as the beames of the Sun, the unlawfullnes of his Authority by ſuch a Com<g ref="char:EOLhyphen"/>miſſion (any thing his L. brings in defence of it in his De<g ref="char:EOLhyphen"/>claration notwithſtanding) for Hee pretends nothing there but neceſſitie and His good intentions, none of which can excuſe Him from ſo unhard of violation of his vowes and ſub<g ref="char:EOLhyphen"/>ſcriptions, neither are the miſeries ſo great which His Com<g ref="char:EOLhyphen"/>miſſion met with at his firſt making uſe of it as thoſe which his ſo ſinfull an engagement ſhall bring on hereafter, for the judgement He pretends to prevent by joyning with Malig<g ref="char:EOLhyphen"/>nants againſt Sectaries, will prove but Phyſick of no value to this poor Land, and will involve them in ſadder judgements then any they could have apprehended from both the former, if they had continued conſtant oppoſers equally of both and joyned with neither. Shall he proſper that doth theſe things, or ſhall Hee break the Covenant and be delivered? The faith<g ref="char:EOLhyphen"/>full man ſweareth to his own hurt and changeth not.</p>
+            <p>For this cauſe, as the Ambaſſadours of Chriſt, Wee beſeech our people in his ſteed, not to joyn hands with ſuch a courſe, or to medle with them who are given to change: And part<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>cularly Wee charge all who hes renewed the Covenant, and hes entred into the Declaration of the Armie and Countrie not to joyne in executing of ſuch a Commiſſion by taking charge in the Armie under the preſent command or ſerving them, either as Officers or Souldiours, elſe We foretell them in the name of the God of Truth, that the quarrell of the Covenant ſhall purſue them, and they ſhall wring out the dregs of the cup, which Malignants hes beene drinking theſe many years by paſt. Yea, their judgement ſhall be enlarged far above the former, becauſe both they have ſeen the others plagues, and hes of late renewed the Covenant which Malig<g ref="char:EOLhyphen"/>nants oppoſe.</p>
+            <p>We do alſo in the name of Jeſus Chriſt, warne the people of our charge to keep themſelves free from all complyance with their ungodly courſe, either by ſpeaking favourably of them, acknowledging the Authority of the preſent command under the Marqueſſe of <hi>Ormond</hi> and the Lord of <hi>Airds,</hi> by im<g ref="char:EOLhyphen"/>poſing of Ceſſe upon others for maintaining their unlawfull Power, or by conſtant obeying their Orders, in paying Ceſſe unto their Armie, which is nothing elſe but a ſubmiſſion un<g ref="char:EOLhyphen"/>to their Authority, a ſtrengthning of their hands, and an up<g ref="char:EOLhyphen"/>holding
+<pb facs="tcp:168337:5"/> of them who maintain a quarrell deſtructive to the Covenant, all which is ſinfull complyance and a breach of Covenant als well as to fight in their quarrell, for it is a pro<g ref="char:EOLhyphen"/>moving of their courſe, tho not by Armes, yet by ſupplying that which is the ſinews of War, Money and Victuals. Nei<g ref="char:EOLhyphen"/>ther can any neceſſity be an excuſe to it, for Wee ought to chooſe affliction rather then ſinne, to help the ungodly and to ſtrengthen the hands of the wicked, is an evill worſe then any ſuffering.</p>
+            <p>The Lord who ſuffered this Land to make defection when they were called to action againſt this partie, is now calling them for a time to ſuffering rather then complyance, ſo to try more narrowly the fidelity of his People, and their love to his Truth more then their Goods or Lives, otherwiſe the ſudden deſtruction which ſhall come on the Malignants here ſhall likewiſe overtake the Land, and make their ſufferings then far greater with an evill conſcience, then they ſhall now indure for well doing, and the God of Truth ſhall fulfill his promiſe to his people, that thoſe who indure cheerfully the ſpoyling of their Goods, ſhall have in heaven a better and more induring ſubſtance, yea, ſhall have an hundreth fold heer, and in the end life everlaſting.</p>
+            <p>There are none in this land who formerly ſuffered for righ<g ref="char:EOLhyphen"/>teouſnes ſake who needs this day to repent it, and for whom the Lord provided not abundantly in their greateſt want: and therefore we do again exhort them to ſtand faſt to the Cove<g ref="char:EOLhyphen"/>nant, that neither perſwaſion nor terrour may with-draw them from the Truth which is now oppoſed, but that they lament for former ſins which brings on theſe calamities, turne in to the Lord and imbrace the Goſpel, and to rejoice in the croſſe of Chriſt, and when the times of refreſhing ſhall come from the preſence of the Lord, their ſins ſhall be blotted out, and the Lord ſhall return their captivity like the ſtreames of the South.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
